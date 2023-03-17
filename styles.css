@@ -1,0 +1,58 @@
+.bar-chart-title {
+    font-family: 'serif', 'sans-serif', 'Roboto Slab', 'Helvetica';
+    font-size: 20px;
+    text-anchor: middle;
+}
+/* .button {
+    fill: rgb(139, 140, 141);
+    r: 25px;
+} */
+.button-highlight {
+    fill: rgb(255, 208, 0);
+    stroke: black;
+    r: 31px;
+}
+.button-text {
+    font-family: 'Roboto Slab', 'Helvetica', sans-serif;
+    font-size: 14px;
+    text-anchor: middle;
+}
+.button-text-highlight {
+    font-family: 'Roboto Slab', 'Helvetica', sans-serif;
+    font-size: 14px;
+    text-anchor: middle;
+}
+.highlight {
+    fill: rgb(28, 124, 202);
+    stroke: black;
+}
+.val {
+    font-family: 'Roboto Slab', 'Helvetica', sans-serif;
+    text-anchor: start;
+}
+.chart-background-debug {
+    width: 700px;
+    height: 600px;
+    background-color: pink;
+}
+.chart-background {
+    background-color: #ffffff;
+}
+/* .bar {
+    fill: #69b3a2;
+} */
+.main-container {
+    font-family: 'Roboto Slab', 'Helvetica', sans-serif;
+    text-align: center;
+    text-anchor: middle;
+    width: 1600px;
+    margin: auto;
+}
+.text {
+    font-family: 'Times New Roman', 'simsun', 'Roboto Slab', 'Helvetica', sans-serif;
+    text-align: justify;
+}
+
+/* .car {
+    fill: rgb(28, 124, 202);
+} */
